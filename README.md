@@ -4,8 +4,6 @@ Hi, I'm Lowri - a research data scientist at Cardiff University.
 
 My interests revolve around nautral language processing, text mining, and sentiment analysis. I occasionally blog about my personal projects and use my Github to repo them. Check out my articles on Medium.
 
-Find me on Twitter or on Codementor where I help mentees with their coding problems.
-
 I mainly code in Python 🐍
 
 
