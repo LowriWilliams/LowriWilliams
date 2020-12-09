@@ -9,5 +9,5 @@ I mainly code in Python 🐍
 
 [![Website Badge](https://img.shields.io/badge/My%20site-Lowri%20Williams-lightgrey)](https://lowriwilliams.github.io/)
 [![Codementor Badge](https://img.shields.io/badge/Codementor-lowriawilliams-lightgrey)](https://www.codementor.io/@lowriawilliams)
-[![Medium Badge](https://img.shields.io/badge/Medium-lowri.a.williams-lightgrey)](https://medium.com/@lowri-a-williams)
+[![Medium Badge](https://img.shields.io/badge/Medium-lowri-a-williams-lightgrey)](https://medium.com/@lowri-a-williams)
 [![Twitter Badge](https://img.shields.io/twitter/follow/Lowri_Williams)](https://twitter.com/Lowri_Williams)
