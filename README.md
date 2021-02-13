@@ -1,6 +1,6 @@
 ### Lowri Williams
 
-Hi, I'm Lowri - a research data scientist at Cardiff University. 
+Hi, I'm Lowri - a research data scientist. 
 
 My interests revolve around nautral language processing, text mining, and sentiment analysis. I occasionally blog about my personal projects and use my Github to repo them. Check out my articles on Medium.
 
